@@ -1,4 +1,3 @@
-web-WestBayClinicalResearch
-===========================
+web-WestBayClinicalResearchSplash
 
-This GitHub repo will hold the work for creation of the West Bay Clinical Research website.
+Temporary splash page for West Bay Clinical Research Website.
